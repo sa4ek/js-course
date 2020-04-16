@@ -23,4 +23,4 @@ let second_second = +prompt("Во сколько обойдется?");
 appData.expenses.first_first = first_second;
 appData.expenses.second_first = second_second;
 
-alert((first_second + second_second) / 30);
+alert(budget / 30);
